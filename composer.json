@@ -1,0 +1,8 @@
+{
+    "name": "xiaoguo/task-system-kafka",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "kwn/php-rdkafka-stubs": "^1.2"
+    }
+}
